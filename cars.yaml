@@ -1,0 +1,25 @@
+cars:
+  - nickname: camry
+    make: Toyota
+    model: Camry
+    year: 2018
+    vin: "YOUR_VIN_HERE"
+    mileage: 134500
+    insurance_due: "2026-12-15"
+    registration_due: "2026-11-30"
+  - nickname: truck
+    make: Ford
+    model: F-150
+    year: 2020
+    vin: "YOUR_VIN_HERE"
+    mileage: 85000
+    insurance_due: "2027-03-01"
+    registration_due: "2027-01-15"
+  - nickname: other
+    make: Honda
+    model: Civic
+    year: 2015
+    vin: "YOUR_VIN_HERE"
+    mileage: 120000
+    insurance_due: "2026-09-20"
+    registration_due: "2026-10-10"
